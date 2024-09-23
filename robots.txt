@@ -1,0 +1,1 @@
+Sitemap: https://furminator.netlify.app/sitemap.xml
